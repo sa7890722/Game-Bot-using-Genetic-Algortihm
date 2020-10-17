@@ -190,7 +190,7 @@ def get_the_fitness(popu, gen, rrd):
                     dead_players[idx] = score
                     dead = dead + 1
 
-        # sleep(0.01)
+        sleep(0.005)
         if dead == n:
             running = False
         x_coord = x_coord - get_speed()
