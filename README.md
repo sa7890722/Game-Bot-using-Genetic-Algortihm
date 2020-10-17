@@ -6,7 +6,7 @@ New bots are created from the best performing bots of the previous generation un
 # How to run : 
 
 1. Download and extract the zip file
-2. Change the path of the images to the relative path
+2. Change the path of the images wherever necessary in the code to the relative path
 3. Run the Environment.py file to play with birds and trees as obstacles or Run the env_copy.py file to play with trees appearing randomly anywhere on the screen to the right of the player and of course without those birds
 4. Nothing Else
 
