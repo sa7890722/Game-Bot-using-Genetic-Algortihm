@@ -1,6 +1,6 @@
 # Game-Bot-using-Genetic-Algortihm
 
-The bot plays the game on its own and learns over time from its previous runs.
+The bot plays the game on its own and learns over time from its previous runs (40 bots play the game each time).
 New bots are created from the best performing bots of the previous generation until we reach the score of 20000 where the perfect bot is considered to be made.
 
 # How to run : 
