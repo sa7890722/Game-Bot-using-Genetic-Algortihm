@@ -10,3 +10,4 @@ New bots are created from the best performing bots of the previous generation un
 3. Run the Environment.py file to play with birds and trees as obstacles or Run the env_copy.py file to play with trees appearing randomly anywhere on the screen to the right of the player
 4. Nothing Else
 
+![Screenshot (150)](https://user-images.githubusercontent.com/43096636/96350860-6bf18180-10d5-11eb-962d-0597fdf25679.png)
