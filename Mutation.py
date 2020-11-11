@@ -6,7 +6,7 @@ def mutation(child):
     for i in range(2, len(child)):
         # print(child.shape)
         rdn = random.random()
-        if rdn > 10:
+        if rdn > 0.1:
             continue
         else:
             select1 = random.randint(0, 1)
