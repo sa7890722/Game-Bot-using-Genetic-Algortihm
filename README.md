@@ -2,6 +2,7 @@
 
 The bot plays the game on its own and learns over time from its previous runs (40 bots play the game each time).
 New bots are created from the best performing bots of the previous generation until we reach the score of 20000 where the perfect bot is considered to be made.
+Just changing up things uselessly without any particular purpose.
 
 # How to run : 
 
